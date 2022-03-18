@@ -1507,7 +1507,7 @@ header .logo {
 }
 .intro-info img {	    
 	height: 39rem;
-    /*width: 43%;*/
+    width: 43%;
     border-radius: 24%;
     margin: -3.1rem 45px 11px -129px;
     float: left;
@@ -1612,7 +1612,7 @@ header .logo {
 	}
 	.intro-info .lead {
 		padding-left: 0;
-		text-align: center;
+		/*text-align: center;*/
 	}
 }
 
