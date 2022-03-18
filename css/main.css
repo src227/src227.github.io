@@ -1605,9 +1605,9 @@ header .logo {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
-		float: none;
+		height: 40%;
+		width: 40%;
+		margin: 10px;
 		display: inline-block;
 	}
 	.intro-info .lead {
